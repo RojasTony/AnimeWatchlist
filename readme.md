@@ -31,4 +31,8 @@ https://movie-app-group20.herokuapp.com/
 * <span style="font-size: 16pt;"><b>Logout</b></span>
   * Lastly, on the navbar the user has the option to log out of their account. When logged out the user will be returned to the Home page and will lose access to all other functionalities besides the home page and log in.
   
-  
+
+# GIF
+
+
+
